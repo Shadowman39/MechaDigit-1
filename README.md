@@ -11,7 +11,7 @@ Youtube update video playlist:
 https://www.youtube.com/playlist?list=PLzRMMqBuPlKnS9st8QpCWHyrGH8tWfRY-
 
 MechaDigit-1  
-© 2025 Shadowman39 
+© 2026 Shadowman39 
 Licensed under CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-v2)
 All content in this repository (documentation, diagrams, photos, and the designs they describe) is covered by the above license.
 Full license: [LICENSE](./LICENSE)
